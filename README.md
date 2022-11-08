@@ -1,2 +1,3 @@
 # AICodingBeginner
 AI编程学习笔记
+TianChiLeetCode目录下分Java和Python3存放了我提交的在线编程天池LeetCode基础训练营的代码。
